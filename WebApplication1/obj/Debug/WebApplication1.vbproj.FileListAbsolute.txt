@@ -1,0 +1,13 @@
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Bigkuo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
